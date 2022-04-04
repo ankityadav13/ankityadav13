@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ankityadav13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ankityadav13, 
+>Learning to code since 2017
+- 👀 I’m interested in making good apps
+- 🌱 I’m currently learning web development
+ 
 
 <!---
 ankityadav13/ankityadav13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
